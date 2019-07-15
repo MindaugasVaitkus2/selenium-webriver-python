@@ -1,5 +1,4 @@
-# headless-web-scrapping-selenium-webdriver-python
-log_generator + Headless_chrome(without any external package) + Selenium + webdriver + Python
+#web-scrapping-selenium-webdriver-python
 web-scrapping examples - 
 || Stackoverflow - Tags/No search ||
 indeed job post ||
